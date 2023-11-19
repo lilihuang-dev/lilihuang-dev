@@ -1,7 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Lili! <br/><br/> 
+  <a href="https://www.linkedin.com/in/lili-huang-dev/">Cybersecurity Analyst</a>,
+  <a href="https://github.com/lilihuang-dev">Full Stack Developer</a>
+</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+- <b>Configuring and updating Microsoft Defender</b>
+- <b>Enabling and configuring Microsoft Firewall</b>
+
+<h2>👨‍💻 Certifications: </h2>
+
+- <b>Google Cybersecurity Certificate </b>
+
+<h2> 🤳 Connect with me:</h2>
+
+- <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/lili-huang-dev
 
 <!--
-**lilihuang-dev/lilihuang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- <b>CompTIA Security+ </b>
 
 Here are some ideas to get you started:
 
