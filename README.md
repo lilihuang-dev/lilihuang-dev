@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Certifications: </h2>
 
-- <b>Google Cybersecurity Certificate </b>
+- <a href="https://coursera.org/share/f37a78e60503c7d253fe62f82c190396">Google Cybersecurity Certificate </a>
 
 <h2> 🤳 Connect with me:</h2>
 
